@@ -2,7 +2,6 @@
 <h1 align="center">Olá 👋, Eu sou Anderson</h1>
 <h3 align="center">Entusiasta na área de Segurança da informação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=visudade&label=Profile%20views&color=0e75b6&style=flat" alt="visudade" /> </p>
 
 - 🔭 Atualmente trabalho na [Freebsd Brasil](https://www.freebsdbrasil.com.br)
 
@@ -22,6 +21,7 @@
    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> </a> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visudade&show_icons=true&locale=en" alt="visudade" /></p>
-
+<h3 align="left">Métricas do GitHub:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=visudade&label=Profile%20views&color=0e75b6&style=flat" alt="visudade" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=visudade&show_icons=true&locale=en" alt="visudade" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visudade&" alt="visudade" /></p>
