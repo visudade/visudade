@@ -3,7 +3,7 @@
 <h3 align="center">Entusiasta na área de Segurança da informação</h3>
 
 
-- 🔭 Atualmente trabalho na [Freebsd Brasil](https://www.freebsdbrasil.com.br)
+- 🔭 Atualmente trabalhando na [Freebsd Brasil](https://www.freebsdbrasil.com.br)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
